@@ -1,0 +1,10 @@
+SELECT policyViolation_status, 
+      COUNT(policyViolation_status) AS Total_Num, 
+      AVG(listingPolicyData_defectCount) AS Avergae_DefectCount,
+      
+FROM `bigqueryexport-183608.amazon.customer_health_metrics` 
+WHERE CAST(snapshot_date AS DATE) = '2023-02-27'
+GROUP BY policyViolation_status
+ORDER BY CASE WHEN policyViolation_status = 'Good' THEN 1
+              WHEN policyViolation_status = 'Fair' THEN 2
+              ELSE 3 END;
