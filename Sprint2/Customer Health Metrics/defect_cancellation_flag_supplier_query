@@ -1,0 +1,6 @@
+SELECT mp_sup_key, orderWithDefects_60_count, orderWithDefects_60_rate
+FROM `bigqueryexport-183608.amazon.customer_health_metrics` 
+WHERE CAST(snapshot_date AS DATE) = '2023-02-27' 
+      AND orderCancellationRate_status = 'Fair' 
+      AND (orderDefectRate_status = 'Fair' OR orderDefectRate_status = 'Bad')
+ORDER BY orderWithDefects_60_count;
