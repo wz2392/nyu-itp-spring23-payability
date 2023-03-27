@@ -5,3 +5,11 @@ Payability is a financial technology (FinTech) company that provides funding and
 Payability offers two main products: Instant Access and Instant Advance. Instant Access allows businesses to receive their marketplace payouts the next day, rather than waiting up to two weeks for funds to clear. Instant Advance provides businesses with a lump sum of cash based on their marketplace sales, which is repaid over time using a percentage of future sales.
 
 In exchange for these services, Payability charges a fee or a percentage of the funding provided, depending on the product and the amount of funding needed. Overall, Payability's business model is designed to help small businesses manage their cash flow more effectively and grow their online sales without being limited by slow payment cycles.
+## About my dataset: loan service historical data:
+Apart from Payability's service, some customers use the Amazon loan services. Merchants apply for a small business loan based on the credits of their store. And Amazon take a set amount of money in a certain time period.
+In this data set:
+- Amount: The amount of money transactions between Amazon and merchants.
+- Currency: The type of currency used.
+- Posted_date: Timestamp for each transaction.
+- Type: There are two types of transaction.LoanPayment means the repayment of loans to the Amazon platform. LoanAdvance means the new loan created by the merchant
+- Path_golden: The unique path for each transaction.
