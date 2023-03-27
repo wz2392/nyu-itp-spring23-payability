@@ -12,10 +12,10 @@ Like Late Shipment Rate or On-time Delivery Rate
 
 ## Focused Varibales and futher Observations
 ### Variables:
-1.lateShipmentRate_status: The status of late shipment rate of market suppliers, classified as good, fair and bad.
-2.lateShipment_30_rate: The last 30 days of the supplier's late shipment rate.
-3.preFulfillmentCancellation_30_rate: Rate of cancellation of orders before shipment for the supplier in the last thirty days.
-4.onTimeDelivery_Rate_30: On-time delivery rate of orders in the past 30 days.
+1.lateShipmentRate_status: The status of late shipment rate of market suppliers, classified as good, fair and bad./
+2.lateShipment_30_rate: The last 30 days of the supplier's late shipment rate./
+3.preFulfillmentCancellation_30_rate: Rate of cancellation of orders before shipment for the supplier in the last thirty days./
+4.onTimeDelivery_Rate_30: On-time delivery rate of orders in the past 30 days./
 5.validTracking_Rate_30: Rate of orders with valid tracking information for the past thirty days.
 ### Observations:
 1. [Relation between defective rate and cancellation rate](https://github.com/wz2392/nyu-itp-spring23-payability/blob/main/Sprint2/customer_health_metrics/defect_cancellation_flag_supplier_query)
