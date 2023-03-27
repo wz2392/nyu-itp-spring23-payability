@@ -13,3 +13,6 @@ In this data set:
 - Posted_date: Timestamp for each transaction.
 - Type: There are two types of transaction.LoanPayment means the repayment of loans to the Amazon platform. LoanAdvance means the new loan created by the merchant
 - Path_golden: The unique path for each transaction.
+## basic queries on the data
+- How many merchant use Amazon’s loan service? 
+[How many merchant use Amazon’s loan service? ](Sprint2/Loan-servicing-historical/merchant_num_with_loan.sql)
