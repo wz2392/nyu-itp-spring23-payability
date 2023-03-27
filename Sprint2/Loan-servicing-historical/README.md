@@ -15,5 +15,8 @@ In this data set:
 - Path_golden: The unique path for each transaction.
 ## Basic queries on the data
 - [How many merchant use Amazon’s loan service? ](https://github.com/wz2392/nyu-itp-spring23-payability/blob/main/Sprint2/Loan-servicing-historical/merchant_num_with_loan.sql)
+The percentage of merchants using Amazon's service is crucial because it determines the visualbility of data on dashboards.
 - [loan statement for a particular merchant](https://github.com/wz2392/nyu-itp-spring23-payability/blob/main/Sprint2/Loan-servicing-historical/Loan-by-merchant.sql)
+Find the partern of the statements of one customer, for example, the time period of the statements.
 - [what the merchant is selling](https://github.com/wz2392/nyu-itp-spring23-payability/blob/main/Sprint2/Loan-servicing-historical/Listing-by-merchant.sql)
+Connect to the listing table, we can tell the goods list for a customer and have a look on Amazon.
