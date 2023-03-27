@@ -3,6 +3,7 @@ Payability offers customers, particularly those who are Amazon sellers, an advan
 
 ## Look on the Amazon Sellers' Health Metrics Table:
 In this customer_health_metrics dataset, you can get the information (More than 140 fields) of the related suppliers in terms of their Amazon account performance of sellings and policies, and this data is updated daily. These mainly includes three areas:<br>
+
 **1.Customer Service Performance:<br>
 Like Negative Feedbacks Rate or Response Hours<br>
 2.Product policy compliance<br>
