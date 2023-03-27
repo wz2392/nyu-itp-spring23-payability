@@ -1,4 +1,4 @@
-# First Step: Understanding the business model of Payability
+# Step 1: Understanding the business model of Payability
 ## Investigation on the business model of Payability
 Payability is a financial technology (FinTech) company that provides funding and payment solutions to small businesses, particularly those who sell on online marketplaces like Amazon, Walmart, and Shopify. Their business model centers around providing fast and flexible access to cash flow for these businesses, which often face long payment cycles from their online marketplaces.
 
