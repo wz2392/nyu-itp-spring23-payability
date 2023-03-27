@@ -9,7 +9,7 @@ Like Negative Feedbacks Rate or Response Hours<br>
 **2.Product policy compliance**<br>
 Like Intellectual Property Status or Defect Listing Count<br>
 **3.Shipping Performance**<br>
-Like Late Shipment Rate or On-time Delivery Rate<br>**
+Like Late Shipment Rate or On-time Delivery Rate<br>
 ## Focused Varibales and futher Observations
 ### Variables:
 **1.lateShipmentRate_status:** The status of late shipment rate of market suppliers, classified as good, fair and bad.<br>
