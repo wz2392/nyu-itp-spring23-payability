@@ -11,8 +11,8 @@ This week is to explore the status of return orders for each suppliers. In this 
 - High Average return amount in last 30 days.<br>
 
 ## Major Take Aways from Result
-For the business model of Payability, the high average return amount is more indicative of the potential risk of the supplier than the high return rate.<br>
-Cash early access rates should be adjusted appropriately for this group of suppliers whose return rates are also higher than average.
+- For the business model of Payability, the high average return amount is more indicative of the potential risk of the supplier than the high return rate.<br>
+- Cash early access rates should be adjusted appropriately for this group of suppliers whose return rates are also higher than average.
 
 
 
