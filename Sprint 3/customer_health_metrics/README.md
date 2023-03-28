@@ -8,6 +8,11 @@ This week is to explore the status of return orders for each suppliers. In this 
 
 **There have TWO major risk we can recognized from the return analysis for suppliers:**
 - High return rate in last 30 days.
-- High Average return amount in last 30 days.
+- High Average return amount in last 30 days.<br>
+
+## Major Take Aways from Result
+For the business model of Payability, the high average return amount is more indicative of the potential risk of the supplier than the high return rate.
+Cash early access rates should be adjusted appropriately for this group of suppliers whose return rates are also higher than average.
+
 
 
