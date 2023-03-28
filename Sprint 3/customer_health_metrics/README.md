@@ -5,7 +5,7 @@ This week is to explore the status of return orders for each suppliers. In this 
 1. Join the “returns” and “Cutomer_Health_Metrics” tables. <br>
 2. Calculate the Return Rate for each supplier in last 30 days.<br>
 3. Calculate the Return Amount for each supplier in last 30 days.<br>
-4. 
+
 **There have TWO major risk we can recognized from the return analysis for suppliers:**
 - High return rate in last 30 days.
 - High Average return amount in last 30 days.
