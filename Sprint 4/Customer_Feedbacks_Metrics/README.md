@@ -17,7 +17,7 @@ However, we cannot only see the total number of the lowest rating feedbacks for 
 # Dashoboard Making Logic:
 
 A line chart showing the change/trend in the number of feedbacks over the last 90 days.<br>
-The supplier or Payability can identify problems in a timely manner based on the cumulative graph of the last ninety days of bad reviews. For example, if there is a rapid increase in bad reviews over a certain period of time, it is possible that there is a concentration of problems with a certain product or a change in customer service is needed.
+The supplier or Payability can identify problems in a timely manner based on the cumulative line chart of the last ninety days of bad feedbacks. For example, if there is a rapid increase in low rating feedbacks recently, it is possible that there is a concentration of problems with a certain product or a problem in customer service appeared frequently.
 
 
 
