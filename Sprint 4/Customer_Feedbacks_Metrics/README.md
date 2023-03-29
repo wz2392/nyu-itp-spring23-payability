@@ -4,7 +4,7 @@ what kind of customer feedback each supplier has received in the recent past, th
 or the rating habits of customers leaving feedback.<br>
 The two key features of this table are: 
 - **Rating:** The rating of customer feedback on orders, 1 being the lowest 3 being the best.
-- **Order ID:** Unique identification for each order
+- **Order ID:** Unique identification for each order.
 # Basic Findings:
 **1.** To see the recent feedbacks details among all the suppliers, setting the where clause to show only last 90-day records. [BigQuery Code](https://github.com/wz2392/nyu-itp-spring23-payability/blob/main/Sprint%204/Customer_Feedbacks_Metrics/Feedback%20Rating%20Rank.sql)<br>
 
@@ -16,6 +16,8 @@ However, we cannot only see the total number of the lowest rating feedbacks for 
 
 # Dashoboard Making Logic:
 
+A line chart showing the change/trend in the number of feedbacks over the last 90 days.<br>
+The supplier or Payability can identify problems in a timely manner based on the cumulative graph of the last ninety days of bad reviews. For example, if there is a rapid increase in bad reviews over a certain period of time, it is possible that there is a concentration of problems with a certain product or a change in customer service is needed.
 
 
 
