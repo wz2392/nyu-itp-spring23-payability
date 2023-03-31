@@ -6,4 +6,4 @@ Beside of that, I narrowed the date range from the past year to the most recent 
 
 When validating the data with Amazon, I use the dashboards provided by the Payablity and managed to make the amount to payability match the amount to Amazon.
 ## Created health status calculated field in Looker Studio
-In looker studio, I created a new calculated field called 'health status'. If the ratio of fund and loan is larger than 0.5, the account is in danger. Otherwise it is safe. The threshold is settled by the Payability team. They believe that when a customer give money to Amazon more than Payability, they are under too much presure.
+In looker studio, I created a new calculated field called 'threshold (0.5)'. If the ratio of fund and loan is larger than 0.5, the account is in danger. Otherwise it is safe. The threshold is settled by the Payability team. They believe that when a customer give money to Amazon more than Payability, they are under too much presure.
