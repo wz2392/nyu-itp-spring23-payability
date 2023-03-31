@@ -1,4 +1,4 @@
-# Step 5: Data validation and merging the dashboard
+# Step 4: Data validation and merging the dashboard
 ## Modificate the query and validate the data
 In this sprint, I continue to modificate the query about the rate between the fund and loan. After discussion with Gregor, I changed my calculation fomula from SUM(amount of money to Amazon) /SUM(amount of money to Payability) to SUM(amount of money to Amazon) /[SUM(amount of money to Payability)+SUM(amount of money to Amazon)]. Because the loan amount is deducted before the payment is made, and I should add that to the calculation of ratio.
 
