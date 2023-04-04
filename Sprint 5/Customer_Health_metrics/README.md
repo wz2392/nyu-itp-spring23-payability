@@ -3,19 +3,19 @@
 ## 1. Calculate the necessary metrics out：
 These metrics includes: <br>
 
-**1. Customer Service Performace Part:** <br>
+**Part 1. Customer Service Performace:** <br>
   - Order Defect Rate.
   - Negative Feedback Rate.
   - A-to-Z Guarantee Claims Rate.
   - Chargeback Claims Rate. <br>
 
-**2. Policy Compliance Part:** <br>
+**Part 2. Policy Compliance:** <br>
   - Number of Received Intellectual Property Violations.
   - Number of Product Authenticity Customer Complaints.
   - Number of Food and Product Safety Issues.
   - Number of Listing Policy Violation.<br>
 
-**3. Shipping Performance Part:** <br>
+**Part 3. Shipping Performance:** <br>
   - Late Shipment Rate.
   - Pre-fulfillment Cancellation Rate.
   - Valid Tracking Rate.
