@@ -6,5 +6,5 @@ inner join
 SELECT max(snapshot_date) AS LatestDate, mp_sup_key AS suppliers
   FROM`bigqueryexport-183608.amazon.customer_health_metrics`
   GROUP BY mp_sup_key) AS submax
-  on snapshot_date = submax.LatestDate AND mp_sup_key = submax.suppliers
+on snapshot_date = submax.LatestDate AND mp_sup_key = submax.suppliers
 
