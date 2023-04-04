@@ -1,6 +1,6 @@
 ## Step 4: Calculate the Customer Health Metrics in Need
 ### This week is to obtain comprehensive health metrics of the customer from existing data in vary tables and integrate the three part of metrics in a dashboard.
-## 1. Calculate the necessary metrics out：
+## 1. Calculate the necessary metrics out：[BigQuery Link](https://github.com/wz2392/nyu-itp-spring23-payability/blob/main/Sprint%205/Customer_Health_metrics/Table_Select.sql)
 These metrics includes: <br>
 
 **Part 1. Customer Service Performace:** <br>
