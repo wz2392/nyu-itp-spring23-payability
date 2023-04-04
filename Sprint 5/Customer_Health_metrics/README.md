@@ -20,7 +20,7 @@ These metrics includes: <br>
   - Pre-fulfillment Cancellation Rate.
   - Valid Tracking Rate.
 
-## 2. Make the dashboard and add controls on it:
+## 2. Make the dashboard and add decorations:
 The dashboard interface is roughly divided into three parts to show the data of the three parts listed above. Under the important rates including OrderDefect Rate, LateShipment Rate, Pre-fulfillment Cancel Rate and Valid Tracking Rate, both the number of affected orders and the total number of orders in calculations are shown, which explains how the rates are calculated.<br>
 
 Added a control above the dashboard to let the viewer filter the suppliers' unique key and a date label to show when the data was last updated.
