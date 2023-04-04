@@ -7,11 +7,13 @@ These metrics includes: <br>
   - Negative Feedback Rate.
   - A-to-Z Guarantee Claims Rate.
   - Chargeback Claims Rate. <br>
+
 **2. Policy Compliance Part:** <br>
   - Number of Received Intellectual Property Violations.
   - Number of Product Authenticity Customer Complaints.
   - Number of Food and Product Safety Issues.
   - Number of Listing Policy Violation.<br>
+
 **3. Shipping Performance Part:** <br>
   - Late Shipment Rate.
   - Pre-fulfillment Cancellation Rate.
