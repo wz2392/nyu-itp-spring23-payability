@@ -4,6 +4,15 @@
 These metrics includes: <br>
 **1. Customer Service Performace Part:** <br>
   - Order Defect Rate.
-  - Negative Feedback Rate
-  - A-to-Z Guarantee Claims Rate
-  - Chargeback Claims Rate
+  - Negative Feedback Rate.
+  - A-to-Z Guarantee Claims Rate.
+  - Chargeback Claims Rate.
+**2. Policy Compliance Part:** <br>
+  - Number of Received Intellectual Property Violations.
+  - Number of Product Authenticity Customer Complaints.
+  - Number of Food and Product Safety Issues.
+  - Number of Listing Policy Violation.
+**3. Shipping Performance Part:** <br>
+  - Late Shipment Rate.
+  - Pre-fulfillment Cancellation Rate.
+  - Valid Tracking Rate.
