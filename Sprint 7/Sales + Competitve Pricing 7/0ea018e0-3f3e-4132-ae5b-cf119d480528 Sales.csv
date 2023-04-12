@@ -1,0 +1,32 @@
+Sales Dashboard
+Last updated,April 10 2023 11:28:1 AM PDT
+
+Filter Selection
+Date,Year to date - April 10 2023
+Sales breakdown,Marketplace total
+Fulfillment Channel,Both (Amazon and seller)
+
+Sales Snapshot
+Total Order Items,Units Ordered,Ordered Product Sales,Average units/order item,Average sales/order item
+70322,75689,"$1,141,604.12",1.08,16.23
+Compare Sales - Graph view
+Time,This year so far (Ordered product sales),This year so far (Units ordered),Last year (Ordered product sales),Last year (Units ordered)
+Jan,"$388,285.91",27803.0,"$6,531,808.50",219548.0
+Feb,"$343,727.00",23031.0,"$319,935.47",23687.0
+Mar,"$304,799.97",18572.0,"$180,479.16",11384.0
+Apr,"$104,791.23",6283.0,"$384,419.97",27532.0
+May,,,"$768,665.06",57750.0
+Jun,,,"$428,606.62",32551.0
+Jul,,,"$529,225.62",39719.0
+Aug,,,"$490,559.41",39652.0
+Sep,,,"$476,401.28",35364.0
+Oct,,,"$411,516.34",31954.0
+Nov,,,"$830,445.50",53396.0
+Dec,,,"$421,373.44",29895.0
+Compare Sales - Table view
+,Total Order Items,Units Ordered,Ordered Product Sales,Average units/order item,Average sales/order item
+This year so far,70322,75689,"$1,141,604.12",1.08,16.23
+Last year,544354,602432,"$11,773,436.00",1.11,21.63
+% change from last year,-68%,-71%,-84.05%,-6.8965454%,-48.768944%
+This year through 4/10/23 11AM PDT,70305,75672,"$1,141,322.25",1.08,16.23
+Last year through 4/10/22 11AM PDT,225860,262715,"$7,155,883.50",1.16,31.68
