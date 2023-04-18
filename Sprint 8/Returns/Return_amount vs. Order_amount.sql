@@ -1,3 +1,4 @@
+## Returns amount vs. Order Amount
 SELECT order_id, mp_sup_key,order_date, 
   SUM(refunded_amount) AS refunded_amount_per_order, 
   SUM(order_amount) AS total_order_amount,
